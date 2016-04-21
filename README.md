@@ -12,7 +12,7 @@ The files here support the [Hackaday Lasercut Optics Bench Project](https://hack
 * Read dxf into libreCAD 2D CAD tool
 * Save as new name such as adding mm to filename
 * Read new file into inkscape and change document properties to letter size
-* Select all and change document properties to mm. No resizing is required.
+* Select all and move onto page then change document properties to mm. No resizing is required.
 * Verify any known dimension such as actual 6 mm which is 6.282 mm measured by inkscape.
 
 *It is my opinion that 0.282 mm is 0.01110236 inch and is an aceptable tolerance.
