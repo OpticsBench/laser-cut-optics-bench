@@ -1,4 +1,6 @@
 # laser-cut-optics-bench
+
+[![Join the chat at https://gitter.im/OpticsBench/laser-cut-optics-bench](https://badges.gitter.im/OpticsBench/laser-cut-optics-bench.svg)](https://gitter.im/OpticsBench/laser-cut-optics-bench?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Easy to make optics bench using a laser cutter
 
 
