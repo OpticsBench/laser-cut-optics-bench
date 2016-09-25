@@ -10,7 +10,7 @@ This project describes a set of simple optics holders that can be made from comm
 
 Sources are DXF files that you can import and cut with most laser software.
 
-<img align="right" src="https://github.com/OpticsBench/laser-cut-optics-bench/blob/master/wiki/images/BenchOverview.jpg" width="50%">
+<img align="right" src="https://github.com/OpticsBench/laser-cut-optics-bench/wiki/images/BenchOverview.jpg" width="50%">
 
 Although inexpensive, the system can make variety of interesting and subtle optical setups, such as:
 
