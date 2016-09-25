@@ -1,16 +1,16 @@
 #Lasercut Optics Bench
 
-A set of simple optics holders that can be made from common hardware and pieces cut using your laser cutter.
+Simple optics holders from common hardware and pieces cut on a laser cutter.
 
 ##About the optics bench
 
-If you want to do optics experiments, you'll need a system to hold and aim the various components. 
+If you want to do optics experiments, you'll need a way to hold the components. Commercial optical holders tend to be expensive.
 
-This project describes a set of simple optics holders that can be made from common hardware and pieces cut using your laser cutter.
-
-Sources are DXF files that you can import and cut with most laser software.
+This project describes a set of simple optics holders that you can make from common hardware and pieces cut using your laser cutter.
 
 <img align="right" src="https://github.com/OpticsBench/laser-cut-optics-bench/wiki/images/BenchOverview.jpg" width="50%">
+
+Sources are DXF files that you can import and cut with most laser software.
 
 Although inexpensive, the system can make variety of interesting and subtle optical setups, such as:
 
