@@ -1,5 +1,6 @@
 # DXF fource files
 *.crv3d
+*.odg
 
 # Compiled Object files
 *.slo
