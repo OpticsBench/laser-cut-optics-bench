@@ -23,6 +23,8 @@ Although inexpensive, the system can make variety of interesting and subtle opti
 
 <hr width="100%">
 
+<img align="right" src="https://github.com/OpticsBench/laser-cut-optics-bench/wiki/images/SuitcasePackedSmall.jpg" width="50%">
+
 This project was originally an entry in the [2016 Hackaday Prize](https://hackaday.io/project/10707-lasercut-optics-bench).
 
 A complete description, along with build instructions and suggestions, is available on the project [Wiki](https://github.com/OpticsBench/laser-cut-optics-bench/wiki).
