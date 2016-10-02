@@ -28,3 +28,5 @@ Although inexpensive, the system can make variety of interesting and subtle opti
 This project was originally an entry in the [2016 Hackaday Prize](https://hackaday.io/project/10707-lasercut-optics-bench).
 
 A complete description, along with build instructions and suggestions, is available on the project [Wiki](https://github.com/OpticsBench/laser-cut-optics-bench/wiki).
+
+Video: [![Laser cut optics bench](http://img.youtube.com/vi/n-c1HQImycg/0.jpg)](https://www.youtu.be/n-c1HQImycg)
