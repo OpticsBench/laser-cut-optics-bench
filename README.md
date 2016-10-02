@@ -33,8 +33,4 @@ A complete description, along with build instructions and suggestions, is availa
 
 ###Demonstration Video
 
-<p align="center">
-
-Video: [![Laser cut optics bench](http://img.youtube.com/vi/n-c1HQImycg/0.jpg)](https://www.youtu.be/n-c1HQImycg)
-
-</p>
+[![Laser cut optics bench](http://img.youtube.com/vi/n-c1HQImycg/0.jpg)](https://www.youtu.be/n-c1HQImycg)
