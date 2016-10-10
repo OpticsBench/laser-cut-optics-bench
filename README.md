@@ -35,6 +35,8 @@ A complete description, along with build instructions and suggestions, is availa
 
 [![Laser cut optics bench](http://img.youtube.com/vi/n-c1HQImycg/0.jpg)](https://youtu.be/n-c1HQImycg)
 
+<hr width="100%">
+
 # Copyright (c) 2016 ToolChainGang
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
