@@ -25,11 +25,11 @@ Although inexpensive, the system can make variety of interesting and subtle opti
 
 <img align="right" src="https://github.com/OpticsBench/laser-cut-optics-bench/wiki/images/SuitcasePackedSmall.jpg" width="50%">
 
-This project was originally an entry in the [2016 Hackaday Prize](https://hackaday.io/project/10707-lasercut-optics-bench).
+This project was a [2016 Hackaday Prize](https://hackaday.io/project/10707-lasercut-optics-bench) entry.
 
 A complete description, along with build instructions and suggestions, is available on the project [Wiki](https://github.com/OpticsBench/laser-cut-optics-bench/wiki).
 
-The project is currently in a good state, but not under active development.
+The project is in a good state, but not actively developed.
 
 If you'd like to contribute, contact the author here on GitHub or from the 
 [Hackaday project](https://hackaday.io/project/10707-lasercut-optics-bench) page.
